@@ -1,2 +1,2 @@
 # fogbugz-testing
-testing. for fogbugz
+testing. for fogbugz.
